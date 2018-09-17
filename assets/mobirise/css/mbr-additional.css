@@ -141,7 +141,7 @@ body {
   background-color: #879a9f !important;
 }
 .bg-danger {
-  background-color: #b1a374 !important;
+  background-color: #31a930 !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -245,8 +245,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #b1a374 !important;
-  border-color: #b1a374 !important;
+  background-color: #31a930 !important;
+  border-color: #31a930 !important;
   color: #ffffff !important;
 }
 .btn-danger:hover,
@@ -254,14 +254,14 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff !important;
-  background-color: #8b7d4e !important;
-  border-color: #8b7d4e !important;
+  background-color: #206d1f !important;
+  border-color: #206d1f !important;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #8b7d4e !important;
-  border-color: #8b7d4e !important;
+  background-color: #206d1f !important;
+  border-color: #206d1f !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -409,22 +409,22 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background: none;
-  border-color: #7a6e45;
-  color: #7a6e45;
+  border-color: #1a5a19;
+  color: #1a5a19;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #b1a374;
-  border-color: #b1a374;
+  background-color: #31a930;
+  border-color: #31a930;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #b1a374 !important;
-  border-color: #b1a374 !important;
+  background-color: #31a930 !important;
+  border-color: #31a930 !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -476,7 +476,7 @@ body {
   color: #879a9f !important;
 }
 .text-danger {
-  color: #b1a374 !important;
+  color: #31a930 !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -506,7 +506,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #7a6e45 !important;
+  color: #1a5a19 !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -526,7 +526,7 @@ a.text-black:focus {
   background-color: #879a9f;
 }
 .alert-danger {
-  background-color: #b1a374;
+  background-color: #31a930;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
@@ -582,7 +582,7 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #dfd9c6;
+  color: #7fda7e;
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
@@ -1375,45 +1375,13 @@ body {
 .cid-r3Rfp35Cvr {
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
-.cid-r3RfUZKnVU {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
+.cid-r3RnPznVOL {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #efefef;
 }
-.cid-r3RfUZKnVU h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-r3RfUZKnVU p {
+.cid-r3RnPznVOL .mbr-section-subtitle {
   color: #767676;
-  text-align: left;
-}
-.cid-r3RfUZKnVU .card-img {
-  text-align: left;
-  padding-right: 30px;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-  width: auto;
-}
-.cid-r3RfUZKnVU .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-.cid-r3RfUZKnVU .card-title {
-  margin-bottom: 0;
-}
-.cid-r3RfUZKnVU .mbr-crt-title {
-  -webkit-flex-grow: 1;
-  flex-grow: 1;
-}
-.cid-r3RfUZKnVU .media {
-  margin: initial;
-  align-items: center;
-}
-@media (max-width: 300px) {
-  .cid-r3RfUZKnVU .card-img span {
-    font-size: 40px !important;
-  }
 }
 .cid-r3RfwbGbYB {
   padding-top: 90px;
@@ -1447,7 +1415,7 @@ body {
 .cid-r3RfwbGbYB .card-wrapper {
   height: 100%;
   padding-bottom: 2rem;
-  background: #ffffff;
+  background: #efefef;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
